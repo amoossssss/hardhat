@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.17.4
+
+### Patch Changes
+
+- 8388720ea: Added support for the RPC method debug_traceCall.
+
 ## 2.17.3
 
 ### Patch Changes
